@@ -38,7 +38,7 @@ Embee is a modern blogging application that allows users to create, edit, and ma
   [Logout.gif](screenshots/Logout.gif)  
 
 - **Without Login User Can Just Read**  
-  [WithoutLoginUserCanJustRead.mp4](screenshots/WithoutLoginUserCanJustRead.mp4)  
+  [WithoutLoginUserCanJustRead.gif](screenshots/WithoutLoginUserCanJustRead.gif)  
 
 ---
 
@@ -51,39 +51,39 @@ Embee is a modern blogging application that allows users to create, edit, and ma
   ![PostDetailsPageShowingPostContentAllCommentsAndOptionToMarkFavourite](screenshots/PostDetailsPageShowingPostContentAllCommentsAndOptionToMarkFavourite.png)  
 
 - **Create and Edit a Post**  
-  [EditAPost.mp4](screenshots/EditAPost.mp4)  
+  [EditAPost.gif](screenshots/EditAPost.gif)  
 
 - **Delete Own Post**  
-  [DeleteOwnPost.mp4](screenshots/DeleteOwnPost.mp4)  
+  [DeleteOwnPost.gif](screenshots/DeleteOwnPost.gif)  
 
 - **Mark as Favourite**  
-  [MarkAsFavourite.mp4](screenshots/MarkAsFavourite.mp4)  
+  [MarkAsFavourite.gif](screenshots/MarkAsFavourite.gif)  
 
 - **Unfavourite a Post**  
-  [UnfavouriteAPost.mp4](screenshots/UnfavouriteAPost.mp4)  
+  [UnfavouriteAPost.gif](screenshots/UnfavouriteAPost.gif)  
 
 ---
 
 ### Drafts
 
 - **Create a Draft**  
-  [CreateADraft.mp4](screenshots/CreateADraft.mp4)  
+  [CreateADraft.gif](screenshots/CreateADraft.gif)  
 
 - **Edit a Draft and Delete a Draft**  
-  [EditADraftAndDeleteADraft.mp4](screenshots/EditADraftAndDeleteADraft.mp4)  
+  [EditADraftAndDeleteADraft.gif](screenshots/EditADraftAndDeleteADraft.gif)  
 
 - **Publish a Draft**  
-  [PublishingADraft.mp4](screenshots/PublishingADraft.mp4)  
+  [PublishingADraft.gif](screenshots/PublishingADraft.gif)  
 
 ---
 
 ### Comments
 
 - **Create and Edit a Comment**  
-  [CreateAndEditComment.mp4](screenshots/CreateAndEditComment.mp4)  
+  [CreateAndEditComment.gif](screenshots/CreateAndEditComment.gif)  
 
 - **Delete Own Comment**  
-  [DeleteOwnComment.mp4](screenshots/DeleteOwnComment.mp4)  
+  [DeleteOwnComment.gif](screenshots/DeleteOwnComment.gif)  
 
 ---
 
