@@ -32,7 +32,7 @@ Embee is a modern blogging application that allows users to create, edit, and ma
   ![RegistrationWithRobustValidation](screenshots/RegistrationWithRobustValidation.png)  
 
 - **Login**  
-  [Login.mp4](screenshots/Login.mp4)  
+  [Login.mp4](screenshots/Login.gif)  
 
 - **Logout**  
   [Logout.mp4](screenshots/Logout.mp4)  
