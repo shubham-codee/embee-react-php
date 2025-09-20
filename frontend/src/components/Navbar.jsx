@@ -3,7 +3,7 @@ import { Button, IconButton } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 import CloseIcon from "@mui/icons-material/Close";
 import StarBorderIcon from "@mui/icons-material/StarBorder";
-import ArticleOutlinedIcon from "@mui/icons-material/ArticleOutlined"; // ✅ add this import at top
+import ArticleOutlinedIcon from "@mui/icons-material/ArticleOutlined";
 
 import { useState } from "react";
 
@@ -20,7 +20,9 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <h1 className="text-lg sm:text-xl font-medium tracking-wide cursor-pointer">
-            <Link to="/"><img src="./logo.png" alt="logo" width="125px" /></Link>
+            <Link to="/">
+              <img src="./logo.png" alt="logo" width="125px" />
+            </Link>
           </h1>
 
           {/* Desktop Menu */}
@@ -112,7 +114,9 @@ const Navbar = () => {
         <div className="md:hidden bg-white shadow-md px-4 py-3 space-y-3">
           {user ? (
             <>
-              <span className="block text-blue-600">Hi, {user.username}</span>
+              <Link to={"/profile"}>
+                <span className="block text-blue-600">Hi, {user.username}</span>
+              </Link>
 
               <Link
                 to="/favourites"
