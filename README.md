@@ -97,7 +97,7 @@ Embee is a modern blogging application that allows users to create, edit, and ma
 ### Responsive Design
 
 - **Responsive Layout Demonstration**  
-  [Responsive.mp4](screenshots/Responsive.mp4)  
+  [Responsive.gif](screenshots/Responsive.gif)  
 
 ---
 
