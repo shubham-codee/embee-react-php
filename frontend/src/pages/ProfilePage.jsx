@@ -35,7 +35,7 @@ function ProfilePage() {
 
   return (
     <>
-      <div className="max-w-4xl mx-auto px-4 py-6 flex flex-col gap-4">
+      <div className="max-w-7xl mx-auto px-4 md:px-8 py-6 flex flex-col gap-4">
         <div className="flex items-center justify-between">
           <h1 className="text-2xl sm:text-3xl font-bold text-[#1976d2]">
             Your Posts
@@ -81,7 +81,7 @@ function ProfilePage() {
             </Button>
           </div>
         ) : (
-          <div className="flex flex-row gap-4 py-4 justify-center">
+          <div className="flex flex-row gap-4 py-4 justify-center flex-wrap">
             {userPosts.map((post) => (
               <Link to={`/posts/${post.id}`} key={post.id}>
                 <PostCard post={post} />
